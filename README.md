@@ -1,3 +1,13 @@
+## G A M E - O - R A M A
+
+v0.1
+
+2020
+
+Javier Pagan
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
